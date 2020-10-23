@@ -1,0 +1,535 @@
+/* =============================================================================
+   FOUNDATION
+   ========================================================================== */
+
+/* Jayden Seric's Foundation */
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+
+body {
+  margin: 0;
+  font: 16px/1 sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+blockquote,
+figure,
+ol,
+ul {
+  margin: 0;
+  padding: 0
+}
+
+main,
+li {
+  display: block
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-size: inherit
+}
+
+strong {
+  font-weight: 700
+}
+
+a,
+button {
+  color: inherit;
+  -webkit-transition: .3s;
+  transition: .3s
+}
+
+a {
+  text-decoration: none
+}
+
+button {
+  overflow: visible;
+  border: 0;
+  font: inherit;
+  -webkit-font-smoothing: inherit;
+  letter-spacing: inherit;
+  background: none;
+  cursor: pointer
+}
+
+::-moz-focus-inner {
+  padding: 0;
+  border: 0
+}
+
+:focus {
+  outline: 0
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 0
+}
+
+/* My Foundation */
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  text-decoration: none
+}
+
+li {
+  list-style: none
+}
+
+* {
+  box-sizing: border-box
+}
+
+/* Background */
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  background: rgb(255, 255, 255);
+  font-family: Montserrat, Helvetica, Arial, sans-serif;
+}
+
+/* =============================================================================
+   SECTION FORMATTING
+   ========================================================================== */
+
+section {
+  width: 100%;
+  text-align: center;
+  color: #263238;
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.section-container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.section-title {
+  border-bottom: 10px solid #263238;
+  display: inline-block;
+  font-size: 44px;
+  margin-bottom: 50px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+@media (max-width: 699px) {
+  section {
+    padding-top: 50px;
+  }
+
+  .section-container {
+    width: 260px;
+  }
+
+  .section-title {
+    border-bottom: 8px solid #263238;
+    font-size: 36px;
+    padding-bottom: 8px;
+    letter-spacing: 0px;
+  }
+}
+
+/* =============================================================================
+   INTRO SECTION
+   ========================================================================== */
+
+#intro {
+  height: 100%;
+  width: 100%;
+  color: white;
+  min-height: 400px;
+  padding: 0;
+}
+
+#particles-js {
+  width: 100%;
+  height: 100%;
+  min-height: 400px;
+  background-color: #263238;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+.intro-container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: fit-content;
+}
+
+.intro-name {
+  font-family: 'Euphoria Script', sans-serif;
+  font-weight: normal;
+  font-size: 90px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.intro-desc {
+  font-size: 30px;
+  margin-top: 15px;
+  text-align: center;
+  font-weight: 200;
+}
+
+.intro-desc .type {
+  font-weight: 400;
+}
+
+.icon-buttons {
+  display: flex;
+  font-size: 40px;
+  margin-top: 50px;
+  justify-content: space-around;
+}
+
+.icon-buttons i {
+  color: rgba(255, 255, 255, 0.5);
+  -webkit-transition: color .1s linear;
+  transition: color .1s linear;
+}
+
+.icon-buttons i:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
+@media (max-width: 699px) {
+  .intro-name {
+    font-size: 55px;
+  }
+
+  .intro-desc {
+    font-size: 25px;
+  }
+
+  .intro-buttons {
+    font-size: 35px;
+  }
+}
+
+/* =============================================================================
+   NAVIGATION BAR
+   ========================================================================== */
+
+nav {
+  position: relative;
+  top: -7%;
+  width: 450px;
+  margin: auto;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 200;
+  z-index: 11;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+nav a:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
+@media (max-width: 699px) {
+  nav {
+    width: 280px;
+    margin: auto;
+    font-size: 15px;
+  }
+}
+
+/* =============================================================================
+   ABOUT SECTION
+   ========================================================================== */
+
+.about-info-container {
+  text-align: left;
+  font-weight: 200;
+  line-height: 1.4em;
+  font-size: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.about-info-container p {
+  margin-bottom: 1em;
+}
+
+.about-info-container h2 {
+  font-weight: 600;
+  text-transform: uppercase;
+  color: rgb(102, 102, 102);
+}
+
+.about-info-container strong {
+  font-weight: 300;
+}
+
+.about-left {
+  float: left;
+  margin-bottom: 20px;
+}
+
+.about-profile {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.about-right {
+  margin-left: 40%;
+}
+
+.about-bottom {
+  margin-top: 20px;
+  clear: both;
+}
+
+@media (max-width: 699px) {
+  .about-info-container {
+    padding: 0;
+    font-size: 16px;
+  }
+
+  .about-left {
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: fit-content;
+  }
+
+  .about-profile {
+    width: 150px;
+    margin: 0 auto;
+  }
+
+  .about-right {
+    margin-left: 0;
+  }
+}
+
+/* =============================================================================
+   PROJECTS SECTION
+   ========================================================================== */
+
+#projects {
+  background-color: rgb(230, 230, 230);
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.project-item {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  font-weight: 200;
+  line-height: 18px;
+  font-size: 14px;
+  margin: 10px;
+  padding: 15px;
+  color: white;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  -webkit-filter: brightness(80%);
+  filter: brightness(80%);
+}
+
+.project-item:hover {
+  -webkit-filter: brightness(100%);
+  filter: brightness(100%);
+}
+
+.project-item strong {
+  text-transform: uppercase;
+  font-size: 19px;
+  letter-spacing: 0.5px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+/* .project-item .project-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  -webkit-transition: all .17s linear;
+  transition: all .17s linear;
+}
+
+.project-item:hover> :not(.project-overlay) {
+  opacity: 0;
+}
+
+.project-item:hover .project-overlay {
+  opacity: 1;
+} */
+
+/* =============================================================================
+   CONTACT SECTION
+   ========================================================================== */
+
+#contact h1 {
+  margin-bottom: 30px;
+}
+
+#contact h2 {
+  font-weight: 300;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+#contact .contact-field {
+  background-color: rgb(230, 230, 230);
+  margin: 15px auto;
+  width: 550px;
+  text-align: left;
+}
+
+#contact .contact-field label,
+#contact .contact-send {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 18px;
+  color: white;
+  padding: 15px;
+  background-color: rgb(77, 77, 77);
+  display: inline-block;
+  width: 120px;
+  text-align: center;
+  vertical-align: top;
+}
+
+#contact .contact-field input,
+#contact .contact-field textarea {
+  border: none;
+  padding: 10px;
+  background-color: rgb(230, 230, 230);
+  font-size: 18px;
+  font-family: inherit;
+  font-weight: 300;
+  display: inline-block;
+  width: 420px;
+  height: 48px;
+}
+
+#contact .contact-field textarea {
+  resize: vertical;
+}
+
+#contact textarea.contact-message {
+  height: 160px;
+}
+
+#contact .contact-send {
+  width: 550px;
+}
+
+@media (max-width: 699px) {
+  #contact h2 {
+    font-size: 18px;
+  }
+
+  #contact .contact-field {
+    width: 260px;
+    margin: 10px auto;
+  }
+
+  #contact .contact-field label,
+  #contact .contact-send {
+    font-size: 12px;
+    padding: 8px;
+    width: 80px;
+  }
+
+  #contact .contact-field input,
+  #contact .contact-field textarea {
+    padding: 4px;
+    font-size: 12px;
+    width: 160px;
+    height: 28px;
+  }
+
+  #contact .contact-message {
+    height: 100px;
+  }
+
+  #contact .contact-send {
+    width: 260px;
+  }
+}
+
+/* =============================================================================
+   FOOTER SECTION
+   ========================================================================== */
+
+footer {
+  background-color: #78909C;
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+footer .icon-buttons {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+footer p {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+@media (max-width: 699px) {
+  footer p {
+    font-size: 16px;
+  }
+}
+
+/* =============================================================================
+   V CLOAK
+   ========================================================================== */
+
+[v-cloak] {
+  display: none;
+}
