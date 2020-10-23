@@ -518,8 +518,8 @@ body.fp-viewing-blog .scroll-toggle span {
 }
 body.fp-viewing-portfolio .scroll-toggle i,
 body.fp-viewing-blog .scroll-toggle i {
-	border-color: rgba(0, 0, 0, 0.2);
-	color: rgba(0, 0, 0, 0.2);
+	border-color: rgba(0, 0, 0, 0.8);
+	color: rgba(0, 0, 0, 1);
 }
 
 /* === 6. START MAIN PAGINATION === */
@@ -566,9 +566,9 @@ body.fp-viewing-blog .scroll-toggle i {
 	position: absolute;
 	top: 0;
 	left: 0;
-	color: #b7b7b7;
-	font-size: 14px;
-	font-weight: 300;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 500;
 } 
 .contact-form input:not([type='submit']),
 .contact-form textarea {
@@ -894,8 +894,8 @@ nav ul li a:hover:after {
 	width: 50px;
 	text-align: center;
 	padding-top: 3px;
-	color: rgba(255, 2555, 255, 0.2);
-	border: 3px solid rgba(255, 255, 255, 0.2);
+	color: rgba(255, 255, 255, 0.7);
+	border: 3px solid rgba(255, 255, 255, 0.7);
 	border-radius: 50%;
 }
 .scroll-toggle.up i {
@@ -906,8 +906,8 @@ nav ul li a:hover:after {
 	transform: rotate(180deg);
 }
 .scroll-toggle i:hover {
-	color: rgba(255, 2555, 255, 0.4);
-	border: 3px solid rgba(255, 255, 255, 0.4);
+	color: rgba(255, 2555, 255, 0.9);
+	border: 3px solid rgba(255, 255, 255, 0.9);
 }
 .scroll-toggle i:hover + span {
 	margin-top: 13px;
@@ -959,7 +959,7 @@ nav ul li a:hover:after {
 	padding-left: 390px;
 }
 .main-info .short-info-wrapper .text {
-	margin-top: -50px;
+	margin-top: 0px;
 }
 .main-info .short-info-wrapper h1 {
 	font-size: 160px;
@@ -1155,7 +1155,7 @@ nav ul li a:hover:after {
 .timeline-box ul .mCSB_draggerRail {
 	width: 4px;
 	border-radius: 0;
-	background: rgba(255, 255, 255, 0.05);
+	background: rgba(255, 255, 255, 0.5);
 }
 .timeline-box ul .mCSB_dragger {
 	width: 24px !important;
@@ -1815,6 +1815,11 @@ nav ul li a:hover:after {
 .social-box ul li i.fa-envelope {
 	background: #000000;
 }
+
+.social-box ul li i.fa-file-text-o {
+	background: #000000;
+}
+
 
 .icon-buttons {
   display: flex;
