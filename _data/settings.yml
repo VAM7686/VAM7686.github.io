@@ -1,0 +1,136 @@
+#-------------------------------
+# General Site Settings
+
+title: VM
+logo: 
+author: themefisher
+description: Welcome to my website
+email: vmhatre3@gatech.edu
+phone: (908) 967-8766
+address: Atlanta, Georgia, USA
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+
+menu:
+- {name: About, link: '/about'}
+- {name: Blog, link: '/blog'}
+- {name: Portfolio, link: '/portfolio'}
+- {name: Contact, link: '/contact'}
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: # UA-XXXXXX-X
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hello. My name is <br> Vivek
+
+social:
+- {icon: "ti-linkedin", link: "https://linkedin.com/in/vmhatre3"}
+- {icon: "ti-github", link: "https://github.com/VAM7686"}
+- {icon: "ti-email", link: "mailto:vmhatre3@gatech.edu"}
+- {icon: "ti-align-justify", link: "assets/Mhatre_Vivek_102320.pdf"}
+
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb:
+  Currently, I am student at Georgia Tech studying computer science. I am interested in machine learning and intelligent robots 
+
+blurb-btn-link: '/about'
+blurb-btn-name: know more
+
+
+# About Page
+
+
+
+#-------------------------------
+# Experience Section
+
+experience-title: Experience
+experience:
+- {name: Research Intern, icon: 'icon-1.png', date: 'May 2020 - Jul 2020' , organization: 'Georgia Tech Research Institute'}
+- {name: Research Assistant, icon: 'icon-2.png', date: 'May 2019 - Jul 2019', organization: 'Rutgers University'}
+- {name: Database Programmer, icon: 'icon-3.png', date: 'Oct 2014 - Aug 2018', organization: 'MobileArq'}
+
+
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image : "assets/images/portfolio/ipm_image.jpg"
+    url: "https://github.com/VAM7686/Inverse-Projection-Mapping"
+    
+  - image : "assets/images/portfolio/item-3.png"
+    url: "https://github.com/Vikram-T/hackGT19"
+    
+  - image : "assets/images/portfolio/soap_image.jpg"
+    url: "https://sites.google.com/nyu.edu/soap/initiative?authuser=0"
+    
+  - image : "assets/images/portfolio/CloudflareWorkers.jpg"
+    url: "https://github.com/VAM7686/cloudflare-workers-example"
+
+
+# Portfolio Page
+portfolio-label:
+- {
+    title : "Machine Learning",
+    type : "ml"
+  }
+- {
+    title : "Computer Vision",
+    type : "cv"
+  }
+- {
+    title : "Web Design",
+    type : "web"
+  }
+
+portfolio-items:
+  - image : "assets/images/portfolio/ipm_image.jpg"
+    url: "https://github.com/VAM7686/Inverse-Projection-Mapping"
+    portfolio-type:
+     - type: "cv"
+    
+  - image : "assets/images/portfolio/item-3.png"
+    url: "https://github.com/Vikram-T/hackGT19"
+    portfolio-type:
+     - type: "web"
+     - type: "ml"
+    
+  - image : "assets/images/portfolio/soap_image.jpg"
+    url: "https://sites.google.com/nyu.edu/soap/initiative?authuser=0"
+    portfolio-type:
+     - type: "web"
+     - type: "ml"
+    
+  - image : "assets/images/portfolio/CloudflareWorkers.jpg"
+    url: "https://github.com/VAM7686/cloudflare-workers-example"
+    portfolio-type:
+     - type: "web"
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: vmhatre3@gatech.edu

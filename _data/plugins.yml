@@ -1,0 +1,17 @@
+################ CSS Plugins #####################
+css:
+  - "/assets/plugins/bootstrap/bootstrap.min.css"
+  - "/assets/plugins/themify-icons/themify-icons.css"
+  - "/assets/plugins/awesome-font-icons/font-awesome.css"
+  - "/assets/plugins/slick/slick.css"
+  - "/assets/plugins/particles_style.css"
+
+
+################ JS Plugins ######################
+js:
+  - "/assets/plugins/jQuery/jquery.min.js"
+  - "/assets/plugins/bootstrap/bootstrap.min.js"
+  - "/assets/plugins/shuffle/shuffle.min.js"
+  - "/assets/plugins/slick/slick.min.js"
+  - "/assets/plugins/particles.js"
+  - "/assets/plugins/particles_master.js"
