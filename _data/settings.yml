@@ -3,7 +3,7 @@
 
 title: VM
 logo: 
-author: themefisher
+author: Vivek Mhatre
 description: Welcome to my website
 email: vmhatre3@gatech.edu
 phone: (908) 967-8766
@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2020 Vivek Mhatre
 menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
+- {name: Projects, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 
@@ -80,15 +80,19 @@ experience:
 portfolio-home-items:
   - image : "assets/images/portfolio/ipm_image.jpg"
     url: "https://github.com/VAM7686/Inverse-Projection-Mapping"
+    name: "Inverse Projection Mapping"
     
   - image : "assets/images/portfolio/item-3.png"
     url: "https://github.com/Vikram-T/hackGT19"
+    name: "Too Long Didn't Listen (TL:DR)"
     
   - image : "assets/images/portfolio/soap_image.jpg"
     url: "https://sites.google.com/nyu.edu/soap/initiative?authuser=0"
+    name: "Detecting Toxic Speech"
     
   - image : "assets/images/portfolio/CloudflareWorkers.jpg"
     url: "https://github.com/VAM7686/cloudflare-workers-example"
+    name: "Using Cloudflare's edge network"
 
 
 # Portfolio Page
@@ -109,23 +113,27 @@ portfolio-label:
 portfolio-items:
   - image : "assets/images/portfolio/ipm_image.jpg"
     url: "https://github.com/VAM7686/Inverse-Projection-Mapping"
+    name: "Inverse Projection Mapping"
     portfolio-type:
      - type: "cv"
     
   - image : "assets/images/portfolio/item-3.png"
     url: "https://github.com/Vikram-T/hackGT19"
+    name: "Too Long Didn't Listen (TL:DR)"
     portfolio-type:
      - type: "web"
      - type: "ml"
     
   - image : "assets/images/portfolio/soap_image.jpg"
     url: "https://sites.google.com/nyu.edu/soap/initiative?authuser=0"
+    name: "Detecting Toxic Speech"
     portfolio-type:
      - type: "web"
      - type: "ml"
     
   - image : "assets/images/portfolio/CloudflareWorkers.jpg"
     url: "https://github.com/VAM7686/cloudflare-workers-example"
+    name: "Using Cloudflare's edge network"
     portfolio-type:
      - type: "web"
 
