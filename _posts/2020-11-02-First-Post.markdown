@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lebron v. Jordan
+title:  James v. Jordan
 date:   2020-11-02 10:05:55 +0300
 image:  /assets/images/blog/JamesvJordan.jpeg
 author: Vivek
