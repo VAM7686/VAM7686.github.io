@@ -4,11 +4,14 @@ url: http://VAM7686.github.io # the base hostname & protocol for your site, e.g.
 # Build settings
 markdown: kramdown
 permalink: pretty
-whitelist:
-  - jekyll-analytics
+
 plugins:
   - jekyll-sitemap
-  - jekyll-analytics 
+  - jekyll-analytics
+
+whitelist:
+  - jekyll-analytics
+
 compress_html:
   clippings: all
   comments: all
@@ -36,6 +39,6 @@ exclude:
   - README.md
   - SECURITY.md
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-181925118-1         # Required - replace with your tracking id
+# jekyll_analytics:
+#   GoogleAnalytics:          # Add, if you want to track with Google Analytics
+#     id: UA-181925118-1         # Required - replace with your tracking id

@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: VM
-logo: 
+logo:
 author: Vivek Mhatre
 description: Welcome to my website
 email: vmhatre3@gatech.edu
@@ -24,7 +24,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here. # UA-XXXXXX-X
 
-google-analytics:
+google-analytics: UA-181925118-1
 
 
 #-------------------------------
