@@ -6,7 +6,7 @@ logo:
 author: Vivek Mhatre
 description: Welcome to my website
 email: vmhatre3@gatech.edu
-phone: (908) 967-8766
+# phone: (908) 967-8766
 address: Atlanta, Georgia, USA
 copyright: Copyright &copy; 2020 Vivek Mhatre
 
@@ -38,7 +38,7 @@ disqus-identifier: vam7686-github-io # Add your shortname for Disqus Comment. Fo
 # Hero Section
 
 hero:
-  hero-title: Hello. My name is <br> Vivek
+  hero-title: Hi! I’m Vivek.
 
 social:
 - {icon: "ti-linkedin", link: "https://linkedin.com/in/vmhatre3"}
