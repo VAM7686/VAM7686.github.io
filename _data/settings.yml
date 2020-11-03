@@ -6,7 +6,6 @@ logo:
 author: Vivek Mhatre
 description: Welcome to my website
 email: vmhatre3@gatech.edu
-# phone: (908) 967-8766
 address: Atlanta, Georgia, USA
 copyright: Copyright &copy; 2020 Vivek Mhatre
 
@@ -23,9 +22,9 @@ menu:
 # Analytics helps you understand who visits your website.
 # Learn more at: http://support.google.com/analytics/answer/1008065
 
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here. # UA-XXXXXX-X
 
-google-analytics: UA-181925118-1 # UA-XXXXXX-X
+google-analytics: UA-181925118-1
 
 
 #-------------------------------
@@ -38,7 +37,7 @@ disqus-identifier: vam7686-github-io # Add your shortname for Disqus Comment. Fo
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m Vivek.
+  hero-title: Hi! I’m <br> Vivek.
 
 social:
 - {icon: "ti-linkedin", link: "https://linkedin.com/in/vmhatre3"}
