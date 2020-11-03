@@ -4,7 +4,8 @@ url: http://VAM7686.github.io # the base hostname & protocol for your site, e.g.
 # Build settings
 markdown: kramdown
 permalink: pretty
-whitelist: [jekyll-analytics]
+whitelist:
+  - jekyll-analytics
 plugins:
   - jekyll-sitemap
   - jekyll-analytics 
