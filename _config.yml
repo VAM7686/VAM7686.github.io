@@ -7,10 +7,6 @@ permalink: pretty
 
 plugins:
   - jekyll-sitemap
-  - jekyll-analytics
-
-whitelist:
-  - jekyll-analytics
 
 compress_html:
   clippings: all

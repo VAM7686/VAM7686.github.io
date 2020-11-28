@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Fantasy Premier Leage Gameweek 10 Preview
+title:  Fantasy Premier League Gameweek 10 Preview
 date:   2020-11-26 10:05:55 +0300
 image:  /assets/images/blog/gw10.jpg
 author: Vivek
@@ -9,17 +9,17 @@ tags:   Sports
 
 # **Fantasy Premier League Preview for Gameweek 10.**
 
-**TLDR: Arsenal is a very defensive team with good players who have trouble scoring goals. Aubameyang might be good if he continues to play in the center. Martinelli is also good if flags mount up on other attackers. I have hope for City. City's good and they have good players and I think they just need time to click. Cheap defenders from West Ham and Burnley seem good since they can pull clean sheets against other mid table teams. Vardy is good. Manchester United defense is bad. Bamford is a god. James is great, but not that great for fantasy. Captain Bruno Fernandes since Southampton seems like the perfect fixture for United. Dominic Calvert Lewin is also another great captain choice.**
+**TLDR: Arsenal is a very defensive team with good players who have trouble scoring goals. Aubameyang might be good if he continues to play in the center. I have hope for City. City's good and they have good players and I think they just need time to click. Cheap defenders from West Ham and Burnley seem good since they can pull clean sheets against other mid table teams. Vardy is good. Manchester United defense is bad. Bamford is a god. James is great, but not that great for fantasy. Captain Bruno Fernandes since Southampton seems like the perfect fixture for United. Dominic Calvert Lewin is also another great captain choice.**
 
-## Arsenal:
+### Arsenal:
 Let's start with Arsenal, my favorite. I like Arteta; Arsenal has so many good players on their bench. However, any team going against Arsenal seems like a bankable clean sheet. Arsenal hasn't scored a goal in open play since Gameweek 4? Since then, Arsenal has ranked in the bottom five in the league for non-penalty xG. It's really interesting. Watching how Arteta sets up Arsenal to defends makes it seem like Arteta cares about clean sheets, points, and then goals in that order. I like the defense. Arsenal play more reserved; they have two or three defensive midfielders and play with an extra defender. All of these guys are great players. Partey, Ceballos, Tierney are all great. In summary, Arsenal is a defensive team. Quite like Athletico Madrid, where Athletico attacks with two or three players, which gets them a goal and helps them win a lot of 1-0 or 2-0 games. I suppose that's where Arteta is trying to get Arsenal headed, but it doesn't seem like it's working. The striker position is a massive problem for Arsenal. Lacazette has not been putting up good performances. Against Leeds United, last game week (Nov. 22nd), I was excited for Lacazette. Leeds did not have that many defenders, and Aubameyang was down the middle, a place where he could actually score goals. I suppose you could say that Lacazette did not do well against Leeds due to Pepe's red card. However, even before the red card, Arsenal was not playing well at all. Arsenal had no shots on target, and they didn't create any chances whatsoever.
 What boggled my mind even more was when Arteta put Willock and Saka on the bench. Saka had, by far, the best chance of the game thanks to a great ball floated in by Bellerin. Very disjointed. However, I think there is a hidden gem for FPL managers here. If this Leeds game is a sign of things to come, Aubameyang looks like a promising prospect if he starts playing in the center more. With Aubameyang playing in the center, he had more shots against Leeds than he had the last few games. Right now, at 11.6, out of position, on penalties,  Aubameyang looks kind of nice. If Arsenal had one good game, I could see things turning around. One might say that Kane is a better option with his bucket load of points he has had this season, but keep in mind that points in the past do not guarantee points in the future. Plus, Aubameyang scores 20 goals a year, so don't count him out just yet. Saka is another great FPL pick. At 5.3, Saka is ridiculously cheap and also plays full 90 mins for England.
 
 
-## Manchester City Rambling:
+### Manchester City Rambling:
 Against Spurs, Manchester City got slapped around. It was a Mourihno master class. Pep Guardiola was in shambles. Every shot was blocked. Despite this, I want City players. City's upcoming fixtures are beautiful; home Burnley, home Fulham, home West Brom, home Newcastle for four of the next six games. Plus, City is ranked in the top five for non-penalty xG. I think City's performance woes are also due to its striker problem. City has had maybe four of nine with their starting striker. Plus, international breaks have thrown a big wrench in City's plan. Sterling, De Bruyne, Foden, Mahrez, and almost every player in the team leaves and then comes back after two weeks. Also, Mahrez and Bernardo Silva have just been awful recently. No depth. I suppose we need to trust Pep Guardiola. City's upcoming fixtures have the potential for four or five goals. Maybe I'm a blind optimist, but I believe in City. Perhaps it's the fixtures, Pep, the fact that they easily destroy in the Champions League, I don't know.
 
-## Defender Talk:
+### Defender Talk:
 When trying to find the best defenders, I look for the teams that play with a very tight backend. Right now, these are teams like West Ham and Arsenal. Also, thank god West Ham are not playing with Mark Noble. They just look so much better. I realize this may be hurtful to Mark Noble, so sorry, Mr. Noble (Mark? idk if we're on a first name basis yet). Burnley is another shout. Now that Burnley has got Mee and Tarkowski back, they seem like peak Burnley who are fantastic. Teams like Crystal Palace and Burnley have double-digit clean sheets each season. They don't keep clean sheets against teams like Man City or Liverpool, but they keep cleans against lower teams like Fulham. Taylor at 4.4 looks solid. Not sure if Lowton will keep his spot. Pope is playing really well. Kilman at 4.3 shouldn't be ignored. While Burnley has bad fixtures, their good fixtures are potential clean sheets.
 
 Aston Villa seems like a trap for defenders. Just watched the Brighton game and wasn't really sure what Villa was doing. Villa does not get compact, they don't get tight in the backend, and they do a lot of last-ditch kind of stuff. Whether Villa is playing a 4-4-2 or 4-3-3 formation, they seem to be always be bailed out by Mings and Konsa since they're both outstanding. However, as a team, they don't seem that great. Even though Villa has good fixtures, I'm not buying into Villa's defense. There are similarly priced players on West Ham and Burnley who just set up to keep a clean sheet.
@@ -32,22 +32,22 @@ I am more confident in Southampton than in Aston Villa. Southampton do the same 
 
 Matip's a shout. Matip's not injured, and he's a real goal threat. Fixtures seem great for Liverpool, and Matip is a great player, especially on corners. So, keep an eye on this lad.
 
-## Liverpool:
+### Liverpool:
 Diogo Jota. Jota is so good. When Jota starts, he looks like he's going to score points. When Jota doesn't start, he still looks like he's going to score points. At 6.6, Jota seems like a fun pick, and I might just want to go for him. The problem is that Liverpool's best team does not seem to include Jota. However, with the fixture pileup and the upcoming player rotation, there seems like a strong chance for Jota to get some minutes. Bandwagon might just be taking off here. However, I would take Grealish, Zaha, Ziyech, James Rodriguez over him. Before, I might want Jota, Salah or Mane needs to be injured. 400 minutes in 7 matches. Two goals off the bench in three of his bench appearances. Not sustainable. Probably just a long-term hold, and Jota will rack in some points.
 
-## Leicester:
+### Leicester:
 Vardy could have had a goal or assist against Liverpool. He's probably going to beat up the bad teams. Leicester just beats up on the bad teams and does not seem to do that well against the good teams.
 
-## Manchester United:
+### Manchester United:
 No. I don't like this. Every single game United gives up big chances. You might say that's true for every team but let me tell you that United is a special case. Look at their most recent game against West Brom. West Brom was down their throats, and United seemed lucky not to give up the lead they had. United defense is unbalanced, and they don't seem great. There are so many better teams and have players that are just as good or lower priced. The only pick there is Telles. With Telles taking all the set pieces he might just get an assist.
 
-## Leeds (Patrick Bamford):
+### Leeds (Patrick Bamford):
 I'm regretting not owning Bamford. The chances Bamford gets each game are incredible. Say what you want about his finishing, but Bamford's movement in the box is just beautiful. Leeds flood men forward, and Bamford capitalizes on this. The fixtures don't seem good for Leeds, but Leeds seems to turn every game on its head by aggressively attacking. Leeds are 3rd in non-penalty xG behind Chelsea and Liverpool, and Bamford is 1st in xG per 90 in the ENTIRE LEAGUE. It doesn't matter if you're not a great finisher if you destroy the league in xG. Honestly, Bamford could have easily scored against Arsenal. The post is the only thing that stopped him. Against Palace Bamford scored but was offside. Bamford is just so good. Attackers on Leeds are great. Leeds backend is just terrible. Bielsa is a crazy football mastermind. Bamford stands in a league of his own.
 
-## James Rodriguez:
+### James Rodriguez:
 James was great against Fulham until he just ran out of gas. James is just the key to Everton's attack. From a fantasy perspective though, I would not buy James right now.
 
-## Captain Options This Week:
+### Captain Options This Week:
 Southampton is the perfect Manchester United fixture. United are only good and explosive when the other team presses and gives space on the counter, and Southampton exclusively do that. So captain Bruno Fernandes because he's just so good; number one in creativity in the league by the way.
 
 Dominic Calvert Lewin is also so good. Everton vs. Leeds. Going to be exciting. It's incredible how many chances DCL gets a foot away from the goal. I suppose it's because how DCL loves making the run to get ahead of his marker and then makes that sharp diagonal turn to redirect the ball into the net. Just like what Giroud does.

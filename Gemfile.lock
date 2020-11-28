@@ -72,7 +72,6 @@ PLATFORMS
 DEPENDENCIES
   bundler
   jekyll
-  jekyll-analytics
   jekyll-sitemap
   wdm (>= 0.1.0)
 
