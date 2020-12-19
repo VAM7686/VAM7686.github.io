@@ -7,6 +7,7 @@ author: Vivek
 tags:   Sports
 ---
 
+
 # **Fantasy Premier League Preview for Gameweek 13.**
 
 **TLDR: Zaha is a good replacement for Diogo Jota, Sheffield are bad, Brighton are bad, Chelsea is suffering without Ziyech, Southampton and Leeds look like they can score goals, Captain Kevin De Bruyne, Bruno Fernandes, or Salah.**
