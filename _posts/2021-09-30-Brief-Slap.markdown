@@ -7,7 +7,7 @@ author: Vivek
 tags:   Sports
 ---
 
-# **A Brief Slap Analysis**
+# **Play of the year?**
 
 **TLDR: NBA ass slaps are no jokes.**
 
