@@ -14,7 +14,7 @@ menu:
 - {name: Blog, link: '/blog'}
 - {name: Projects, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
-- {name: Resume, link: 'assets/Mhatre_Vivek_072021.pdf'}
+- {name: Resume, link: 'assets/Mhatre_Vivek_072922.pdf'}
 
 
 #-------------------------------
@@ -86,14 +86,14 @@ portfolio-home-items:
   - image : "assets/images/portfolio/item-3.png"
     url: "https://github.com/Vikram-T/hackGT19"
     name: "Too Long Didn't Listen (TL:DR)"
+  
+  - image : "assets/images/portfolio/multiclassSeg.png"
+    url: "https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation#multiclass-semantic-segmentation-system"
+    name: "Multiclass Semantic Segmentation"
     
-  - image : "assets/images/portfolio/soap_image.jpg"
-    url: "https://sites.google.com/nyu.edu/soap/initiative?authuser=0"
-    name: "Detecting Toxic Speech"
-    
-  - image : "assets/images/portfolio/CloudflareWorkers.jpg"
-    url: "https://github.com/VAM7686/cloudflare-workers-example"
-    name: "Using Cloudflare's edge network"
+  - image : "assets/images/portfolio/traversability.gif"
+    url: "https://github.com/ANYbotics/elevation_mapping"
+    name: "Probabilistic Terrain Mapping with 3D LiDAR"
 
 
 # Portfolio Page
@@ -125,19 +125,23 @@ portfolio-items:
      - type: "web"
      - type: "ml"
     
-  - image : "assets/images/portfolio/soap_image.jpg"
-    url: "https://sites.google.com/nyu.edu/soap/initiative?authuser=0"
-    name: "Detecting Toxic Speech"
+  - image : "assets/images/portfolio/multiclassSeg.png"
+    url: "https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation#multiclass-semantic-segmentation-system"
+    name: "Multiclass Semantic Segmentation"
     portfolio-type:
-     - type: "web"
      - type: "ml"
     
-  - image : "assets/images/portfolio/CloudflareWorkers.jpg"
-    url: "https://github.com/VAM7686/cloudflare-workers-example"
-    name: "Using Cloudflare's edge network"
+  - image : "assets/images/portfolio/traversability.gif"
+    url: "https://github.com/ANYbotics/elevation_mapping"
+    name: "Probabilistic Terrain Mapping with 3D LiDAR"
     portfolio-type:
-     - type: "web"
+     - type: "cv"
 
+  - image : "assets/images/portfolio/swerve_odometry.png"
+    url: "https://github.com/RoboJackets/igvc-software/tree/master/igvc_navigation/src/swerve_wheel_odometer"
+    name: "Calculating Wheel Odometry Using ICR"
+    portfolio-type:
+     - type: "ml"
 #-------------------------------
 # Contact Section
 
