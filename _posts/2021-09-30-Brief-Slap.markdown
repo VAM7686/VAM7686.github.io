@@ -2,7 +2,7 @@
 layout: post
 title:  A Brief Slap Analysis
 date:   2021-09-30 11:12:55 +0300
-image:  assets/images/blog/kd_jersey.jpg
+image:  assets/images/blog/joel_embiid.jpeg
 author: Vivek
 tags:   Sports
 ---
